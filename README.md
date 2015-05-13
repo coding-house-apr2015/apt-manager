@@ -2,6 +2,8 @@
 
 ### Testing
 
+[![Build Status](https://travis-ci.org/coding-house-apr2015/apt-manager.svg?branch=master)](https://travis-ci.org/coding-house-apr2015/apt-manager)
+[![Coverage Status](https://coveralls.io/repos/coding-house-apr2015/apt-manager/badge.svg?branch=master)](https://coveralls.io/r/coding-house-apr2015/apt-manager?branch=master)
 
 ### Technologies
 
