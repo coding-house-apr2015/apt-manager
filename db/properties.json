@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {"$oid": "b00000000000000000000001"},
+    "managerId": {"$oid": "a00000000000000000000001"},
+    "name": "Oak Ridge",
+    "address": "115 Main Street",
+    "apartments": [],
+    "createdAt": {"$date": 1431541042952}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000002"},
+    "managerId": {"$oid": "a00000000000000000000001"},
+    "name": "Bison Pass",
+    "address": "943 Elm Street",
+    "apartments": [],
+    "createdAt": {"$date": 1431541042952}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000003"},
+    "managerId": {"$oid": "a00000000000000000000001"},
+    "name": "Happy Trails",
+    "address": "675 Magic Lane",
+    "apartments": [],
+    "createdAt": {"$date": 1431541042952}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000004"},
+    "managerId": {"$oid": "a00000000000000000000002"},
+    "name": "Park Street Penthouses",
+    "address": "1000 Park Street",
+    "apartments": [],
+    "createdAt": {"$date": 1431541042952}
+  },
+  {
+    "_id": {"$oid": "b00000000000000000000005"},
+    "managerId": {"$oid": "a00000000000000000000002"},
+    "name": "Grande View",
+    "address": "738 Sonya Drive",
+    "apartments": [],
+    "createdAt": {"$date": 1431541042952}
+  }
+]
