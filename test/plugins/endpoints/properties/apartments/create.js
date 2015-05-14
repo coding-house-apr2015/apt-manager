@@ -39,7 +39,7 @@ describe('POST /properties/{propertyId}/apartments', function(){
       expect(response.result.name).to.equal('Oak Ridge');
       Property.findById('b00000000000000000000001', function(err, property){
         expect(err).to.be.null;
-        expect(property.apartments).to.have.length(1);
+        expect(property.apartments).to.have.length(5);
         done();
       });
     });

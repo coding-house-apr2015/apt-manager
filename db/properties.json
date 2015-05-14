@@ -4,7 +4,48 @@
     "managerId": {"$oid": "a00000000000000000000001"},
     "name": "Oak Ridge",
     "address": "115 Main Street",
-    "apartments": [],
+    "apartments": [
+      {
+      "name": "A1",
+      "rent": 1500,
+      "bathrooms": 2,
+      "sqft": 800,
+      "rooms": 3,
+      "createdAt": {"$date": 1431541042952},
+      "renters": [],
+      "isAvailable": true
+      },
+      {
+      "name": "A2",
+      "rent": 1300,
+      "bathrooms": 1,
+      "sqft": 1250,
+      "rooms": 2,
+      "createdAt": {"$date": 1431541042952},
+      "renters": [],
+      "isAvailable": false
+      },
+      {
+      "name": "A3",
+      "rent": 1100,
+      "bathrooms": 3,
+      "sqft": 950,
+      "rooms": 1,
+      "createdAt": {"$date": 1431541042952},
+      "renters": [],
+      "isAvailable": true
+      },
+      {
+      "name": "A4",
+      "rent": 900,
+      "bathrooms": 1,
+      "sqft": 470,
+      "rooms": 2,
+      "createdAt": {"$date": 1431541042952},
+      "renters": [],
+      "isAvailable": false
+      }
+      ],
     "createdAt": {"$date": 1431541042952}
   },
   {
